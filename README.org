@@ -1,0 +1,10 @@
+* utility
+
+Yet another personal utility library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/terminal625/utility.git   |
+| commit  | b34f9a6  |
+| systems | utility |
+|---------+-------------------------------------------|
+
